@@ -1,0 +1,2 @@
+
+Ans) Static routing is used in smaller networks. Dynamic routing is implemented in large networks.
